@@ -4,5 +4,5 @@
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Project-Mika" />
   <project path="device/xiaomi/alioth" name="android_device_xiaomi_alioth" remote="Project-Mika" />
   <project path="vendor/xiaomi/alioth" name="android_vendor_xiaomi_alioth" remote="Project-Mika" />
-  <project path="device/xiaomi/alioth" name="android_kernel_xiaomi_alioth" remote="Project-Mika" />
+  <project path="kernel/xiaomi/alioth" name="android_kernel_xiaomi_alioth" remote="Project-Mika" />
 </manifest>
